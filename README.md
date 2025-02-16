@@ -38,3 +38,11 @@ git clone https://github.com/Farid89-data/OptiLogic.git
 cd OptiLogic
 
 python main.py
+```
+## Result
+![plot1](https://github.com/user-attachments/assets/7a3fce6f-5f46-460a-b673-dd1157e38bb1)
+![plot2](https://github.com/user-attachments/assets/800ec1d6-d7d6-40c4-ad63-8223e2b4e88f)
+![plot3](https://github.com/user-attachments/assets/770b2b92-a29f-4274-b803-a4351e16fe92)
+
+
+
