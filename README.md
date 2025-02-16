@@ -33,3 +33,8 @@ Ensure you have Python installed on your system. This project requires the follo
 Install the required libraries using pip:
 ```bash
 pip install numpy pandas matplotlib
+
+git clone https://github.com/Farid89-data/OptiLogic.git
+cd OptiLogic
+
+python main.py
